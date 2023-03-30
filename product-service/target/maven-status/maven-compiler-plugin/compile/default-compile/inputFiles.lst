@@ -1,0 +1,7 @@
+/Users/hammadrashid/Downloads/ecommerce-project/product-service/src/main/java/com/ecomproject/productservice/model/Product.java
+/Users/hammadrashid/Downloads/ecommerce-project/product-service/src/main/java/com/ecomproject/productservice/dto/ProductRequest.java
+/Users/hammadrashid/Downloads/ecommerce-project/product-service/src/main/java/com/ecomproject/productservice/service/ProductService.java
+/Users/hammadrashid/Downloads/ecommerce-project/product-service/src/main/java/com/ecomproject/productservice/repository/ProductRepository.java
+/Users/hammadrashid/Downloads/ecommerce-project/product-service/src/main/java/com/ecomproject/productservice/dto/ProductResponse.java
+/Users/hammadrashid/Downloads/ecommerce-project/product-service/src/main/java/com/ecomproject/productservice/ProductServiceApplication.java
+/Users/hammadrashid/Downloads/ecommerce-project/product-service/src/main/java/com/ecomproject/productservice/controller/ProductController.java

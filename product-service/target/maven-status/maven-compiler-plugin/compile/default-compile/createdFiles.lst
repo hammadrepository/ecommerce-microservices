@@ -1,0 +1,10 @@
+com/ecomproject/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/ecomproject/productservice/model/Product$ProductBuilder.class
+com/ecomproject/productservice/dto/ProductRequest.class
+com/ecomproject/productservice/service/ProductService.class
+com/ecomproject/productservice/model/Product.class
+com/ecomproject/productservice/ProductServiceApplication.class
+com/ecomproject/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/ecomproject/productservice/repository/ProductRepository.class
+com/ecomproject/productservice/dto/ProductResponse.class
+com/ecomproject/productservice/controller/ProductController.class
